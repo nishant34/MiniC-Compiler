@@ -1,0 +1,39 @@
+<KY,int>
+ <ID,a>
+  <OP,=>
+ <CT,3>
+
+<ID,a>
+ <OP,=>
+ <ID,a>
+<OP,+>
+<CT,5>
+
+<KY,int>
+ <ID,b>
+ <OP,=>
+ <CT,8>
+
+<KY,char>
+ <ID,t>
+ <OP,=>
+ <CT,'p'>
+
+<KY,while>
+<SP,(>
+<ID,a>
+<OP,<>
+<CT,15>
+<SP,)>
+<SP,{>
+
+<ID,a>
+ <OP,=>
+ <ID,a>
+<OP,+>
+<CT,1>
+<SP,;>
+
+<SP,}>
+
+ Total number of tokens in the above program is 31
